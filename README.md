@@ -2,4 +2,4 @@
 
 Check out our [wiki](../../wiki) 
 
-Report an issue or suggestion [issues](../../issues)
+Report an issue or suggestion [issues](http://realskill.io/#/support)
